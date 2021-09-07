@@ -14,4 +14,4 @@
 * GitHub
 
 Ссылка на проект:
-https://github.com/ValMclaren/russian-travel/
+https://valmclaren.github.io/russian-travel/
