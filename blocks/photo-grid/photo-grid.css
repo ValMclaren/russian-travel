@@ -7,23 +7,25 @@
   gap: 16px;
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
+@media screen and (max-width: 1280px) {
   .photo-grid {
     max-width: 928px;
     grid-gap: 14px;
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
   .photo-grid {
     max-width: 720px;
     grid-gap: 16px;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 375px)  {
   .photo-grid {
+    max-width: 288px;
     gap: 12px;
+    padding-bottom: 64px;
   }
 }
 
